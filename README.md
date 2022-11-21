@@ -21,4 +21,7 @@ An online platform to host and collaborate on git repos
 - `git show history-id` -> show the changes from that commit
 
 ## Branch control
+![home](./assets/flow-of-branches.png)
+A branch represent an independent line of development
+
 - `git branch` -> show a list of branches in the repo

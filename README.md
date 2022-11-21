@@ -20,7 +20,7 @@ An online platform to host and collaborate on git repos
 - `git log` -> see history(past commits)
 - `git show history-id` -> show the changes from that commit
 
-## Git Branches FLow
+# Git Branches FLow
 ![home](./assets/flow-of-branches.png)
 A branch represent an independent line of development
 

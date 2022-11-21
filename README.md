@@ -5,8 +5,8 @@
 - `git commit -m "message"` -> commit to history (includes a bunch of commit)
 
 ## Remote server
-- git push -> push changes to remote server
-- git pull -> pull new changes from remote server
+- `git push` -> push changes to remote server
+- `git pull` -> pull new changes from remote server
 
 ## Show changes and status
 - `git diff` -> show the current difference

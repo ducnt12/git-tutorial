@@ -1,10 +1,12 @@
 # Git Tutorial
+![home](./assets/git-push.png)
 ## Local machine
 - `git init .` -> initialize a local working directory
 - `git add .` -> add to staging area
 - `git commit -m "message"` -> commit to history (includes a bunch of commit)
 
 ## Remote server
+An online platform to host and collaborate on git repos
 - `git push` -> push changes to remote server
 - `git pull` -> pull new changes from remote server
 

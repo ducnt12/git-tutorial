@@ -26,5 +26,6 @@ A branch represent an independent line of development
 
 - `git branch -a` -> show a list of branches in the repo
 - `git checkout -b branch-name` -> create new branch and move to that branch
+- `git checkout -d branch-name` -> delete that branch and move back to branch `main`
 - `git checkout branch-name` -> change to the new branch
 - `git checkout -` -> change back to the previous branch

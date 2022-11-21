@@ -24,4 +24,7 @@ An online platform to host and collaborate on git repos
 ![home](./assets/flow-of-branches.png)
 A branch represent an independent line of development
 
-- `git branch` -> show a list of branches in the repo
+- `git branch -a` -> show a list of branches in the repo
+- `git branch branch-name` -> create new branch but not yet move to that branch
+- `git checkout branch-name` -> change to the new branch
+- `git checkout -` -> change back to the previous branch

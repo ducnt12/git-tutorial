@@ -29,3 +29,5 @@ A branch represent an independent line of development
 - `git branch -d branch-name` -> delete that branch
 - `git checkout branch-name` -> change to the that branch
 - `git checkout -` -> change back to the previous branch
+
+# Git Rebase

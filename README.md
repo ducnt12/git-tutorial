@@ -9,7 +9,7 @@
 ## Remote server
 An online platform to host and collaborate on git repos
 
-- `git push -u origin main` -> push changes to the `main` branch in remote server
+- `git push` -> push changes to the `main` branch in remote server
 - `git pull` -> pull new changes from remote server
 
 ## Show changes and status
@@ -17,3 +17,6 @@ An online platform to host and collaborate on git repos
 - `git status` -> check working directory status
 - `git log` -> see history(past commits)
 - `git show history-id` -> show the changes from that commit
+
+## Branch control
+- `git branch` -> show a list of branches in the repo

@@ -20,11 +20,11 @@ An online platform to host and collaborate on git repos
 - `git log` -> see history(past commits)
 - `git show history-id` -> show the changes from that commit
 
-## Branch control
+## Git Branches FLow
 ![home](./assets/flow-of-branches.png)
 A branch represent an independent line of development
 
 - `git branch -a` -> show a list of branches in the repo
-- `git branch branch-name` -> create new branch but not yet move to that branch
+- `git checkout -b branch-name` -> create new branch and move to that branch
 - `git checkout branch-name` -> change to the new branch
 - `git checkout -` -> change back to the previous branch

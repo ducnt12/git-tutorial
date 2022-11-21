@@ -1,5 +1,5 @@
 # Git Tutorial
-![home](./assets/git-flow.png)
+![home](./assets/git-flow.PNG)
 
 ## Local machine
 - `git init .` -> initialize a local working directory

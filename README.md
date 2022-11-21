@@ -1,6 +1,8 @@
 # Git Tutorial
 ![home](./assets/git-flow.PNG)
 
+A repo about git tutorial. It contains essential git commands with both local machine and remote server
+
 ## Local machine
 - `git init .` -> initialize a local working directory
 - `git add .` -> add to staging area

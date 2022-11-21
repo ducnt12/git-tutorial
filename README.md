@@ -17,7 +17,7 @@ An online platform to host and collaborate on git repos
 ## Show changes and status
 - `git diff` -> show the current difference
 - `git status` -> check working directory status
-- `git log` -> see history(past commits)
+- `git log --oneline` -> see history(past commits)
 - `git show history-id` -> show the changes from that commit
 
 # Git Branches FLow
@@ -26,6 +26,6 @@ A branch represent an independent line of development
 
 - `git branch -a` -> show a list of branches in the repo
 - `git checkout -b branch-name` -> create new branch and move to that branch
-- `git checkout -d branch-name` -> delete that branch and move back to branch `main`
+- `git branch -d branch-name` -> delete that branch
 - `git checkout branch-name` -> change to the that branch
 - `git checkout -` -> change back to the previous branch

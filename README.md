@@ -9,7 +9,7 @@
 - git pull -> pull new changes from remote server
 
 ## Show changes and status
+- `git diff` -> show the current difference
 - `git status` -> check working directory status
 - `git log` -> see history(past commits)
-- `git diff` -> show the difference
 - `git show history-id` -> show the changes from that commit

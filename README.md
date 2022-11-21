@@ -5,6 +5,7 @@
 `git commit -m "message"` -> commit to history (includes a bunch of commit)
 `git status` -> check working directory status
 `git log` -> see history(past commits)
+`git diff` -> show the difference
 
 ## Remote server
 git push -> push changes to remote server

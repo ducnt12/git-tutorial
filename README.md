@@ -31,3 +31,12 @@ A branch represent an independent line of development
 - `git checkout -` -> change back to the previous branch
 
 # Git Rebase
+Action normally takes place when there are changes from main/master on remote server while the local machine is not up to date.
+
+## Steps
+1. Put local changes aside
+2. Merge current base and new changes from remote server together
+3. Add local changes on the top.
+
+- `git pull -r origin main` -> pull and rebase
+- `git push -f` -> force push

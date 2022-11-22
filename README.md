@@ -1,4 +1,4 @@
-# Git Tutorial
+# Git and Github 
 ![home](./assets/git-flow.PNG)
 
 A repo about git tutorial. It contains essential git commands with both local machine and remote server

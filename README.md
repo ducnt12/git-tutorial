@@ -33,7 +33,7 @@ A branch represent an independent line of development
 # Git Rebase
 Action normally takes place when there are changes from main/master on remote server while the local machine is not up to date.
 
-## Steps
+## Steps1
 1. Put local changes aside
 2. Merge current base and new changes from remote server together
 3. Add local changes on the top.

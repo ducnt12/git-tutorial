@@ -12,7 +12,7 @@ A repo about git tutorial. It contains essential git commands with both local ma
 An online platform to host and collaborate on git repos
 
 - `git push` -> push changes to the `main` branch in remote server
-- `git pull` -> pull new changes from remote server
+- `git pull remote-name` -> pull new changes from remote server (ex. remote-name = origin)
 
 ## Show changes and status
 - `git diff` -> show the current difference
